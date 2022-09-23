@@ -1,5 +1,6 @@
 const config = {
-  Name: "zeeshan",
+  ACTIVE: 0,
+  DELETED: 1,
 };
 
 export default config;
